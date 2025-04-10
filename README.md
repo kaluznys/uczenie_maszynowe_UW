@@ -9,3 +9,5 @@ trzecia pd:
 https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/praca_domowa_3.ipynb
 czwarta praca:
 https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/pd4_um_uw.ipynb
+piąta praca:
+https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/praca_domowa5_uw.ipynb
