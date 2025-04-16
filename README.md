@@ -11,3 +11,5 @@ czwarta praca:
 https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/pd4_um_uw.ipynb
 piąta praca:
 https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/praca_domowa5_uw.ipynb
+szósta praca: 
+https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/praca_domowa6.ipynb
