@@ -27,3 +27,6 @@ https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/praca_domowa6.ipynb
 
 siódma praca domowa: 
 https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/praca_domowa_7.ipynb
+
+ósma praca:
+https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/Lab08_automatic-gradient-training-loop.ipynb
