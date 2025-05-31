@@ -33,3 +33,6 @@ https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/Lab08_automatic-gradi
 
 dziewiąta praca:
 https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/praca_9_um.ipynb
+
+dziesiąta praca: 
+https://github.com/kaluznys/uczenie_maszynowe_UW/blob/main/praca_domowa_10.ipynb
